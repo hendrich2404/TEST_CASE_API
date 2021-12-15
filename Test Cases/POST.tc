@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>mengambil id yang ada di variable</description>
+   <name>POST</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>50d3d0d6-81d6-4b27-8bd7-e9d2369f508b</testCaseGuid>
+   <variable>
+      <defaultValue>'101'</defaultValue>
+      <description></description>
+      <id>b905fe6e-076c-45ef-a79a-1006935b77f6</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+</TestCaseEntity>

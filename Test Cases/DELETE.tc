@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>mengambil id yang ada di variable</description>
+   <name>DELETE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>69b3dfb0-13d7-4f1c-bddf-dd9376ad21d9</testCaseGuid>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>01b3a617-a322-45d5-be98-f79d689c1dd1</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>mengambil id dari 3 variable
+1. id
+2. id_comments
+3. postid</description>
+   <name>GET</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>94d8131c-a89a-46d1-94bf-6aa6b3ca2ec3</testCaseGuid>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>26c5d0eb-795a-42bd-94df-bc6aed9aee35</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+   <variable>
+      <defaultValue>'3'</defaultValue>
+      <description></description>
+      <id>e26476f8-142a-4e93-a4d5-ce77175560e4</id>
+      <masked>false</masked>
+      <name>id_comments</name>
+   </variable>
+   <variable>
+      <defaultValue>'5'</defaultValue>
+      <description></description>
+      <id>9196f67f-656a-41c9-8b26-1fba872f0e5f</id>
+      <masked>false</masked>
+      <name>postid</name>
+   </variable>
+</TestCaseEntity>

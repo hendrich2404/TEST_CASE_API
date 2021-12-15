@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TEST API</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>253db7cf-c679-4d87-b00b-aed362b4f627</testSuiteGuid>
+   <testCaseLink>
+      <guid>10587cd2-add8-4b75-9111-bae48d005e75</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/GET</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>26c5d0eb-795a-42bd-94df-bc6aed9aee35</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e26476f8-142a-4e93-a4d5-ce77175560e4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9196f67f-656a-41c9-8b26-1fba872f0e5f</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>bbae999c-0a45-407d-bc28-d96625ea3984</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DELETE</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>01b3a617-a322-45d5-be98-f79d689c1dd1</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>cf09463a-bf56-42e3-a852-6f72b7d68597</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/POST</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b905fe6e-076c-45ef-a79a-1006935b77f6</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1c7535c9-f501-4730-8b29-f8a122febaf7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/PUT</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f034f774-5392-48ca-a227-1027e2bb8c6f</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

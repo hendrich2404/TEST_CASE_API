@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>mengambil id yang ada di variable</description>
+   <name>PUT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>acb4ce1c-bb0f-4fa1-94a5-270b7deb1be9</testCaseGuid>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>f034f774-5392-48ca-a227-1027e2bb8c6f</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+</TestCaseEntity>
